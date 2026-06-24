@@ -4,7 +4,6 @@ A Streamlit web app that scans incoming messages and classifies them as **Spam**
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![Streamlit](https://img.shields.io/badge/streamlit-app-ff4b4b)
-![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Features
 
@@ -18,8 +17,6 @@ A Streamlit web app that scans incoming messages and classifies them as **Spam**
 ## Demo
 
 ![Spam Scanner Screenshot](https://github.com/yatharthgour-dot/Spam_detection-model/blob/main/screenshot/Screenshot%202026-06-24%20142803.png)
-
-> Add a screenshot of the running app here — replace `docs/screenshot.png` with your own image.
 
 ## Tech Stack
 
@@ -99,7 +96,3 @@ The app will open in your browser at `http://localhost:8501`.
 ## Contributing
 
 Contributions, issues, and feature requests are welcome. Feel free to open a PR or issue.
-
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
