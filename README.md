@@ -17,7 +17,7 @@ A Streamlit web app that scans incoming messages and classifies them as **Spam**
 
 ## Demo
 
-![Spam Scanner Screenshot]([docs/screenshot.png](https://github.com/yatharthgour-dot/Spam_detection-model/blob/main/screenshot/Screenshot%202026-06-24%20142803.png)
+![Spam Scanner Screenshot](https://github.com/yatharthgour-dot/Spam_detection-model/blob/main/screenshot/Screenshot%202026-06-24%20142803.png)
 
 > Add a screenshot of the running app here — replace `docs/screenshot.png` with your own image.
 
